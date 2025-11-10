@@ -36,8 +36,7 @@
 
 ---
 
-## <details>
-<summary>  프로젝트 경험 </summary>
+## <div align="center"> 프로젝트 경험</div>
 
 ### **야자째기** _(2025)_
 :video_game: 유니티 기반 액션 및 전략게임  
