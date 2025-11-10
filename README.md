@@ -7,7 +7,7 @@
 - 연락처
 - 기술 스택
 - 프로젝트 경험
-- 자기소개--학습-목표
+- 자기소개 & 학습목표
 
 ---
 
@@ -24,19 +24,20 @@
 
 ## <div align="center"> 기술 스택</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-222c37?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-222C37?style=flat&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
 </p>
 
 ---
 
 ## <details>
-<summary>  프로젝트 경험 (접기/펼치기)</summary>
+<summary>  프로젝트 경험 </summary>
 
 ### **야자째기** _(2025)_
 :video_game: 유니티 기반 액션 및 전략게임  
@@ -50,4 +51,7 @@
 
 ---
 
-## <div align="center">🙋‍♂️ 자기소개 & 학습 목표</div>
+## <div align="center"> 자기소개 & 학습목표</div>
+단국대학교 컴퓨터공학과 21학번 이세민입니다.  
+AI와 로봇 제어 관련 부분에 관심을 갖고 있고 현재는 해당 부분에 대해 더 심층적인 지식을 갖는 걸 목표하고 있습니다.
+
