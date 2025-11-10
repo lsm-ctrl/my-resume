@@ -38,9 +38,10 @@
 
 ## <div align="center"> 프로젝트 경험</div>
 
-### **야자째기** _(2025)_
+### **야자째기 게임** _(2025)_
 :video_game: 유니티 기반 액션 및 전략게임  
-- 주인공 캐릭터 키보드 컨트롤 구현/적 npc navmash를 이용한 AI 경로탐색 구현 
+- 학교에서 학생이 선생님과 감시용 드론을 피해서 야자를 하지않기 위해 도망가는 내용
+- 주인공 캐릭터 Controller를 통해 직접 이동 구현/적 npc navmash를 이용한 AI 경로탐색 구현 
 - <a href="https://github.com/wechang123/miniature-battlefield">프로젝트 링크</a>
 
 ### **ROS 매니퓰레이터 제어** _(2025)_
