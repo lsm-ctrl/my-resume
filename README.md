@@ -40,11 +40,11 @@
 
 ### **야자째기** _(2025)_
 :video_game: 유니티 기반 액션 및 전략게임  
-- 적 AI/경로탐색/NavMesh  
+- 주인공 캐릭터 키보드 컨트롤 구현/적 npc navmash를 이용한 AI 경로탐색 구현 
 - <a href="https://github.com/wechang123/miniature-battlefield">프로젝트 링크</a>
 
-### **ROS 로봇 팔 제어** _(2025)_
-- 실시간 로봇 암 제어, 센서 피드백 적용
+### **ROS 매니퓰레이터 제어** _(2025)_
+- 실시간 매니퓰레이터 제어, 센서 피드백 적용
 
 </details>
 
