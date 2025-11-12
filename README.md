@@ -1,57 +1,99 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=%EC%9D%B4%EC%84%B8%EB%AF%BC%EC%9D%98%20%EC%9D%B4%EB%A0%A5%EC%84%9C&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200§ion=header&text=이세민의%20이력서&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
+
+
+<div align="center">
+
+**단국대학교 컴퓨터공학과 21학번 이세민**입니다.  
+
+</div>
 
 ---
 
-##  목차
-- 전공 및 학교
-- 연락처
-- 기술 스택
-- 프로젝트 경험
-- 자기소개 & 학습목표
+## 📚 목차
+
+- 🎓 전공 및 학교
+- 📧 연락처
+- 🛠️ 기술 스택
+- 💼 프로젝트 경험
+- 🎯 자기소개 
 
 ---
 
-## <div align="center"> 전공 및 학교</div>
- **단국대학교 컴퓨터공학과** 
+## 🎓 전공 및 학교
+
+| 항목 | 내용 |
+|:---:|:---|
+| 🏫 **학교** | 단국대학교 (Dankook University) |
+| 📖 **전공** | 컴퓨터공학과 (Computer Engineering) |
+| 📅 **학번** | 21학번 |
+| 🎓 **상태** | 재학 중 |
 
 ---
 
-## <div align="center"> 연락처</div>
-- **Email**: 3612ldw@gmail.com
-- **GitHub**: github.com/lsm-ctrl
+## 📧 연락처
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-3612ldw@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3612ldw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lsm--ctrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lsm-ctrl)
+
+</div>
 
 ---
 
-## <div align="center"> 기술 스택</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-222C37?style=flat&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+## 🛠️ 기술 스택
 
-</p>
+### 💻 프로그래밍 언어
+| 언어 | 활용 분야 |
+|:---:|:---|
+| C | 네트워크 프로그래밍 (Socket) |
+| C# | Unity 게임 개발 |
+| Python | ROS 로봇 제어 |
 
----
-
-## <div align="center"> 프로젝트 경험</div>
-
-### **야자째기 게임** _(2025)_
-:video_game: 유니티 기반 액션 및 전략게임  
-- 학교에서 학생이 선생님과 감시용 드론을 피해서 야자를 하지않기 위해 도망가는 내용
-- 주인공 캐릭터 Controller를 통해 직접 이동 구현/적 npc navmash를 이용한 AI 경로탐색 구현 
-- <a href="https://github.com/wechang123/miniature-battlefield">프로젝트 링크</a>
-
-### **ROS 매니퓰레이터 제어** _(2025)_
-- 실시간 매니퓰레이터 제어, 센서 피드백 적용
-
-</details>
+### 🔧 개발 도구
+| 도구 | 용도 |
+|:---:|:---|
+| Unity | 게임 엔진 (NavMesh, Character Controller) |
+| ROS | 로봇 프레임워크 (매니퓰레이터 제어) |
+| Git / GitHub | 버전 관리 및 협업 |
+| Visual Studio Code | 통합 개발 환경 (IDE) |
+| Docker | 컨테이너 기반 개발 환경 |
 
 ---
 
-## <div align="center"> 자기소개 & 학습목표</div>
-단국대학교 컴퓨터공학과 21학번 이세민입니다.  
-AI와 로봇 제어 관련 부분에 관심을 갖고 있고 현재는 해당 부분에 대해 더 심층적인 지식을 갖는 걸 목표하고 있습니다.
+## 💼 프로젝트 경험
+
+### 🎮 야자째기 게임 (2025)
+
+**개발 기간** | 2025년 2학기  
+**팀 구성** | 4인 팀 프로젝트 (게임 로직 & AI 개발 담당)  
+**사용 기술** | Unity, C#, NavMesh  
+**장르** | 3D 액션 & 회피 게임
+
+**주요 구현 내용**
+- Unity NavMesh를 활용한 적 NPC AI 경로 탐색 시스템 구현
+- 플레이어 캐릭터 Controller (WASD 이동, 마우스 회전) 개발
+- 적 추적 및 순찰 패턴 알고리즘으로 게임 난이도 조절
+
+---
+
+### 🦾 ROS 매니퓰레이터 제어 (2025)
+
+**개발 기간** | 2025년 1학기  
+**프로젝트 유형** | 개인 프로젝트  
+**사용 기술** | ROS, Python, Linux  
+**목표** | 실시간 로봇 제어 및 센서 피드백
+
+**주요 구현 내용**
+- ROS 프레임워크 기반 로봇팔 관절 제어 시스템 구현
+- Force/Torque 센서를 활용한 안전한 물체 조작 시스템
+
+---
+
+## 👨‍💻 자기소개
+
+단국대학교 컴퓨터공학과 21학번 **이세민**입니다.  
+
+현재는 **AI**와 **로봇 제어** 분야에 깊은 관심을 갖고 있고 이에 대해 더 많은 지식과 경험을 얻고자 노력 중입니다. 열심히 하겠습니다. 
 
