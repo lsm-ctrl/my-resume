@@ -47,18 +47,18 @@
 ### 💻 프로그래밍 언어
 | 언어 | 활용 분야 |
 |:---:|:---|
-| C | 네트워크 프로그래밍 (Socket) |
-| C# | Unity 게임 개발 |
-| Python | ROS 로봇 제어 |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | 네트워크 프로그래밍 (Socket) |
+| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | Unity 게임 개발 |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ROS 로봇 제어 |
 
 ### 🔧 개발 도구
 | 도구 | 용도 |
 |:---:|:---|
-| Unity | 게임 엔진 (NavMesh, Character Controller) |
-| ROS | 로봇 프레임워크 (매니퓰레이터 제어) |
-| Git / GitHub | 버전 관리 및 협업 |
-| Visual Studio Code | 통합 개발 환경 (IDE) |
-| Docker | 컨테이너 기반 개발 환경 |
+| ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | 게임 엔진 (NavMesh, Character Controller) |
+| ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) | 로봇 프레임워크 (매니퓰레이터 제어) |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | 버전 관리 및 협업 |
+| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 통합 개발 환경 (IDE) |
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | 컨테이너 기반 개발 환경 |
 
 ---
 
@@ -96,4 +96,5 @@
 **단국대학교 컴퓨터공학과 21학번 이세민**입니다.  
 
 현재는 **AI**와 **로봇 제어** 분야에 깊은 관심을 갖고 있고 이에 대해 더 많은 지식과 경험을 얻고자 노력 중입니다. 열심히 하겠습니다. 
+
 
