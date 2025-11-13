@@ -75,7 +75,7 @@
 - Unity NavMesh를 활용한 적 NPC AI 경로 탐색 시스템 구현
 - 플레이어 캐릭터 Controller (WASD 이동, 마우스 회전) 개발
 - 적 추적 및 순찰 패턴 알고리즘으로 게임 난이도 조절
-- [📥 야자째기 (Google Drive)](https://drive.google.com/file/d/1nQdgQXIyYPRVHzl3hoGBmuOl65yxO6oG/view?usp=drive_link)
+- [📥 야자째기 파일 ](https://drive.google.com/file/d/1nQdgQXIyYPRVHzl3hoGBmuOl65yxO6oG/view?usp=drive_link)
 
 ---
 
